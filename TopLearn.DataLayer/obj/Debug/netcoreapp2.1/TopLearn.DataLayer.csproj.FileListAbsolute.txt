@@ -1,0 +1,9 @@
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.deps.json
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.dll
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.AssemblyInfoInputs.cache
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.AssemblyInfo.cs
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.pdb
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.dll
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.pdb
+C:\Users\paramony\Documents\Visual Studio 2017\Projects\TopLearn.Web\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.csprojAssemblyReference.cache
